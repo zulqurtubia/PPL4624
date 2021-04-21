@@ -1,7 +1,7 @@
 # PPL4624
-PPL4624 Kelompok 6
+PPL4624
 
-Kelompok DevApp
+Kelompok Publish
 Nomor Kelompok: 6
 
 Anggota Kelompok:
