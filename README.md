@@ -12,7 +12,7 @@ Anggota Kelompok:
 4. Ricky Maulana Kurniawan - A11.2018.11583 (Programmer)
 5. Yohanes Felix K. - A11.2018.11584 (System Analyst)
 
-Publisher
-![landing page](https://user-images.githubusercontent.com/67576137/120670532-b6840a80-c4ba-11eb-965d-efb6289c2112.png)
+![Screenshot 2021-07-07 190359](https://user-images.githubusercontent.com/80045425/124757656-05104300-df58-11eb-8dbe-29ecc79acc27.png)
+![Screenshot 2021-07-07 190450](https://user-images.githubusercontent.com/80045425/124757677-09d4f700-df58-11eb-855c-453647bfba68.png)
 
-![Login (1)](https://user-images.githubusercontent.com/80331860/120671820-f3043600-c4bb-11eb-8f6c-6e473cef91aa.png)
+
